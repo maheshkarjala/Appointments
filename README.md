@@ -4,7 +4,7 @@
 <title>Page Title</title>
 </head>
 <body>
-
+  
 <style>
         .slds-visual-picker_vertical .slds-visual-picker__figure {
             height: inherit !important;
